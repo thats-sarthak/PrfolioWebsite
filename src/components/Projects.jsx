@@ -3,6 +3,12 @@ import React from 'react';
 const Projects = () => {
   const projects = [
     {
+      title: 'MetaInsights',
+      skills: 'HTML | CSS | Javascript | ReactJS | Tailwind',
+      about: 'It is a Analytical Dashboard who displays the analytical insights.',
+      learning: 'Building from scratch a prokject, impleting lots of functionalities like Chart.JS, DatePicker, etc.',
+    },
+    {
       title: 'SilkCraft',
       skills: 'HTML | CSS | Javascript | React',
       about: 'An e-commerce platform showcasing Paithani silk sarees with mock backend, login and signup management functionality.',
