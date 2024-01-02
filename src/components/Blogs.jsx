@@ -11,7 +11,7 @@ const Blogs = () => {
     {
       id: 2,
       title: "2. Web Development Internship (offline) at Pristyn Care",
-      project:"Made a Web App using MERN stack for optimizing the information collection"
+      project:"Made a Web App using MERN stack for optimizing the information collection, increase efficiency"
     },
   ];
 
